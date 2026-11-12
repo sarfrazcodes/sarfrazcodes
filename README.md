@@ -1,22 +1,38 @@
  <div align="center">
 
-<img src="assets/sarfraz_pixel_reveal.gif" width="260" alt="Sarfraz - Pixel Art Developer Avatar"/>
+<table>
+<tr>
+<td width="62%" valign="middle">
 
-# <span style="color:#00ff88">SARFRAZ CODES</span>
+<h1 align="left">SARFRAZ CODES</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=550&lines=AI%2FML+Developer;Full+Stack+Developer;Competitive+Programmer;Building+EVA+AI+OS"/>
+<h3 align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FF88&vCenter=true&width=420&lines=AI%2FML+Developer;Full+Stack+Developer;Competitive+Programmer;Building+EVA+AI+OS" />
+</h3>
 
-**Computer Science Student | AI/ML | Full-Stack Development**
+**Computer Science Student**
 
-<a href="https://github.com/sarfrazcodes">
-<img src="https://img.shields.io/badge/GitHub-00FF88?style=flat-square&logo=github&logoColor=black"/>
-</a>
-<a href="https://leetcode.com/u/sarfrazcodes/">
-<img src="https://img.shields.io/badge/LeetCode-00FF88?style=flat-square&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://codeforces.com/profile/sarfrazcodes">
-<img src="https://img.shields.io/badge/Codeforces-00FF88?style=flat-square&logo=codeforces&logoColor=black"/>
-</a>
+Building intelligent applications, experimenting with machine learning, and developing software that solves real problems.
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-00FF88?style=flat-square&logo=python&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00FF88?style=flat-square&logo=cplusplus&logoColor=black)
+![React](https://img.shields.io/badge/React-00FF88?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-00FF88?style=flat-square&logo=fastapi&logoColor=black)
+
+<br/>
+
+[GitHub](https://github.com/sarfrazcodes) · [LeetCode](https://leetcode.com/u/sarfrazcodes/) · [Codeforces](https://codeforces.com/profile/sarfrazcodes)
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="assets/sarfraz_pixel_reveal.gif" width="280" alt="Sarfraz Pixel Art Portrait"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -24,18 +40,18 @@
 
 ## About Me
 
-- 🎓 B.Tech Computer Science student.
-- 🤖 Interested in AI, Machine Learning, NLP and LLMs.
-- 💻 Building full-stack applications and intelligent systems.
-- 🧠 Practicing DSA and competitive programming.
-- 🚀 Developing **EVA AI OS**, a voice-controlled desktop assistant.
-- 🎯 Interested in AI/ML, Backend and Software Engineering.
+- B.Tech Computer Science student.
+- Interested in Artificial Intelligence, Machine Learning, NLP and LLMs.
+- Building full-stack applications and intelligent backend systems.
+- Practicing Data Structures and Algorithms.
+- Currently developing **EVA AI OS**, a voice-controlled desktop assistant.
+- Exploring AI/ML, Backend Engineering and SDE opportunities.
 
 ---
 
 ## Tech Stack
 
-**Languages**
+**Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff88)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00ff88)
@@ -51,7 +67,7 @@
 ![NLTK](https://img.shields.io/badge/NLTK-0d1117?style=flat-square&logo=python&logoColor=00ff88)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logo=python&logoColor=00ff88)
 
-**Development & Database**
+**Development & Databases**
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00ff88)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=00ff88)
@@ -81,17 +97,17 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
 <a href="https://leetcode.com/u/sarfrazcodes/">
-<img src="https://leetcard.jacoblin.cool/sarfrazcodes?theme=dark&font=Baloo&border=0&radius=12&width=500&height=200" width="100%" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/sarfrazcodes?theme=dark&font=Baloo&border=0&radius=12&width=450&height=190" width="100%" alt="LeetCode Profile Statistics"/>
 </a>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
 <a href="https://codeforces.com/profile/sarfrazcodes">
-<img src="https://codeforces-stats-vlx.vercel.app/api/card?username=sarfrazcodes&theme=dark" width="100%" alt="Codeforces Stats"/>
+<img src="https://codeforces-stats-vlx.vercel.app/api/card?username=sarfrazcodes&theme=dark" width="100%" alt="Codeforces Profile Statistics"/>
 </a>
 
 </td>
@@ -102,14 +118,13 @@
 
 ---
 
-## GitHub Statistics
+## GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarfrazcodes&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarfrazcodes&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" width="49%"/>
-
-<img src="https://streak-stats.demolab.com?user=sarfrazcodes&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" width="75%"/>
+![Repositories](https://img.shields.io/badge/Repositories-27-00ff88?style=for-the-badge&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/sarfrazcodes?style=for-the-badge&color=00ff88&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/sarfrazcodes?style=for-the-badge&color=00ff88&labelColor=0d1117)
 
 </div>
 
@@ -119,27 +134,28 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarfrazcodes&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-<img src="https://raw.githubusercontent.com/sarfrazcodes/sarfrazcodes/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/sarfrazcodes/sarfrazcodes/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-## Connect With Me
+## Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/sarfrazcodes">
 <img src="https://img.shields.io/badge/GitHub-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-<a href="https://www.youtube.com/@sarfrazcodes">
+
+<a href="https://www.youtube.com/channel/UCYLl4oIDlyF7uH9hQFD3Bg">
 <img src="https://img.shields.io/badge/YouTube-00FF88?style=for-the-badge&logo=youtube&logoColor=black"/>
 </a>
+
 <a href="https://sarfrazcodes.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
+
 <a href="https://www.linkedin.com/in/sarfrazcodes/">
 <img src="https://img.shields.io/badge/LinkedIn-00FF88?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
@@ -148,6 +164,6 @@
 
 **Building today what I wish existed yesterday.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=90&section=footer"/>
 
 </div>
