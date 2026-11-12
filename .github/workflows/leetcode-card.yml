@@ -1,0 +1,38 @@
+
+name: Update LeetCode Profile Card
+
+on:
+  schedule:
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-card:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Generate LeetCode card
+        uses: Sagargupta16/leetcode-card-action@v1
+        with:
+          username: sarfrazcodes
+          theme: github-dark
+          accent: "#00FF88"
+          heatmap: false
+          title: "LEETCODE | {contests} CONTESTS"
+
+      - name: Commit updated card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/leetcode.svg
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update LeetCode profile card"
+            git push
+          fi
