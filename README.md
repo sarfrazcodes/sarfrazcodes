@@ -170,7 +170,7 @@ Building intelligent applications, experimenting with machine learning, and deve
 <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=00ff88"/>
 </a>
 
-<a href="https://www.youtube.com/channel/UCYLl4oIDlyF7uH9hQFD3Bg">
+<a href="https://www.youtube.com/@sarfrazcodes">
 <img src="https://img.shields.io/badge/YouTube-161b22?style=for-the-badge&logo=youtube&logoColor=00ff88"/>
 </a>
 
