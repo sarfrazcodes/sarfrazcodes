@@ -4,7 +4,7 @@
 <tr>
 <td width="62%" valign="middle">
 
-<h1 align="left">SARFRAZ CODES</h1>
+<h1 align="left">Hi, I'm Sarfraz.</h1>
 
 <h3 align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FF88&vCenter=true&width=420&lines=AI%2FML+Developer;Full+Stack+Developer;Competitive+Programmer;Building+EVA+AI+OS" />
@@ -16,10 +16,10 @@ Building intelligent applications, experimenting with machine learning, and deve
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-00FF88?style=flat-square&logo=python&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00FF88?style=flat-square&logo=cplusplus&logoColor=black)
-![React](https://img.shields.io/badge/React-00FF88?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-00FF88?style=flat-square&logo=fastapi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=00ff88)
+![C++](https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=00ff88)
+![React](https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=00ff88)
+![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=00ff88)
 
 <br/>
 
@@ -53,29 +53,29 @@ Building intelligent applications, experimenting with machine learning, and deve
 
 **Programming Languages**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff88)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00ff88)
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00ff88)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff88)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=00ff88)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff88)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ff88)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00ff88)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff88)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff88)
 
 **AI / Machine Learning**
 
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=00ff88)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=00ff88)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=00ff88)
-![NLTK](https://img.shields.io/badge/NLTK-0d1117?style=flat-square&logo=python&logoColor=00ff88)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logo=python&logoColor=00ff88)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00ff88)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00ff88)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00ff88)
+![NLTK](https://img.shields.io/badge/NLTK-0d1117?style=for-the-badge&logo=python&logoColor=00ff88)
+![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logo=python&logoColor=00ff88)
 
 **Development & Databases**
 
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00ff88)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=00ff88)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=00ff88)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=00ff88)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00ff88)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00ff88)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=00ff88)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ff88)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=00ff88)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00ff88)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00ff88)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00ff88)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff88)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=00ff88)
 
 ---
 
@@ -100,19 +100,25 @@ Building intelligent applications, experimenting with machine learning, and deve
 <td width="50%" align="center" valign="middle">
 
 <a href="https://leetcode.com/u/sarfrazcodes/">
-<img src="https://leetcard.jacoblin.cool/sarfrazcodes?theme=dark&font=Baloo&border=0&radius=12&width=450&height=190" width="100%" alt="LeetCode Profile Statistics"/>
+<img src="https://leetcard.jacoblin.cool/sarfrazcodes?theme=dark&font=Baloo&width=400&height=190&border=0&radius=12" width="100%" alt="LeetCode Statistics"/>
 </a>
 
 </td>
 <td width="50%" align="center" valign="middle">
 
 <a href="https://codeforces.com/profile/sarfrazcodes">
-<img src="https://codeforces-stats-vlx.vercel.app/api/card?username=sarfrazcodes&theme=dark" width="100%" alt="Codeforces Profile Statistics"/>
+<img src="https://codeforces-stats-vlx.vercel.app/api/card?username=sarfrazcodes&theme=dark" width="100%" alt="Codeforces Statistics"/>
 </a>
 
 </td>
 </tr>
 </table>
+
+### LeetCode Contest Rating
+
+<a href="https://leetcode.com/u/sarfrazcodes/">
+<img src="https://leetcard.jacoblin.cool/sarfrazcodes?theme=dark&font=Baloo&ext=contest&width=450&height=190&border=0&radius=12" width="75%" alt="LeetCode Contest Rating"/>
+</a>
 
 </div>
 
@@ -145,19 +151,19 @@ Building intelligent applications, experimenting with machine learning, and deve
 <div align="center">
 
 <a href="https://github.com/sarfrazcodes">
-<img src="https://img.shields.io/badge/GitHub-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=00ff88"/>
 </a>
 
 <a href="https://www.youtube.com/channel/UCYLl4oIDlyF7uH9hQFD3Bg">
-<img src="https://img.shields.io/badge/YouTube-00FF88?style=for-the-badge&logo=youtube&logoColor=black"/>
+<img src="https://img.shields.io/badge/YouTube-161b22?style=for-the-badge&logo=youtube&logoColor=00ff88"/>
 </a>
 
 <a href="https://sarfrazcodes.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black"/>
+<img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=00ff88"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sarfrazcodes/">
-<img src="https://img.shields.io/badge/LinkedIn-00FF88?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=00ff88"/>
 </a>
 
 <br/><br/>
