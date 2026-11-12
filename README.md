@@ -138,8 +138,6 @@ Building intelligent applications, experimenting with machine learning, and deve
 
 </div>
 
----
-
 ## GitHub Overview
 
 <div align="center">
