@@ -4,7 +4,7 @@
 <tr>
 <td width="62%" valign="middle">
 
-<h1 align="left">Hi, I'm Sarfraz.</h1>
+<h1 align="left">👋Hi, I'm Sarfraz.</h1>
 
 <h3 align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FF88&vCenter=true&width=420&lines=AI%2FML+Developer;Full+Stack+Developer;Competitive+Programmer;Building+EVA+AI+OS" />
@@ -91,28 +91,40 @@ Building intelligent applications, experimenting with machine learning, and deve
 
 ---
 
-
-
 ## Competitive Programming
 
 <div align="center">
 
+### LeetCode
+
 <a href="https://leetcode.com/u/sarfrazcodes/">
-  <img
-    src="assets/leetcode.svg"
-    width="100%"
-    alt="LeetCode Complete Statistics and Contest Rating"
-  />
+
+<img src="assets/leetcode.svg" width="100%" alt="LeetCode Statistics"/>
+
 </a>
+
+<br/>
+
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-157-00ff88?style=for-the-badge&labelColor=0d1117)
+![Contest Rating](https://img.shields.io/badge/Contest_Rating-1490-00ff88?style=for-the-badge&labelColor=0d1117)
+![Contests Attended](https://img.shields.io/badge/Contests_Attended-1-00ff88?style=for-the-badge&labelColor=0d1117)
+
+<br/>
+
+**Problem Breakdown**
+
+![Easy](https://img.shields.io/badge/Easy-117-00ff88?style=for-the-badge&labelColor=0d1117)
+![Medium](https://img.shields.io/badge/Medium-36-orange?style=for-the-badge&labelColor=0d1117)
+![Hard](https://img.shields.io/badge/Hard-4-red?style=for-the-badge&labelColor=0d1117)
 
 <br/><br/>
 
+### Codeforces
+
 <a href="https://codeforces.com/profile/sarfrazcodes">
-  <img
-    src="https://codeforces-stats-vlx.vercel.app/api/card?username=sarfrazcodes&theme=dark"
-    width="500"
-    alt="Codeforces Statistics"
-  />
+
+<img src="https://codeforces-stats-vlx.vercel.app/api/card?username=sarfrazcodes&theme=dark" width="100%" alt="Codeforces Statistics"/>
+
 </a>
 
 </div>
