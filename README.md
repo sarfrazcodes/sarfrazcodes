@@ -95,37 +95,36 @@ Building intelligent applications, experimenting with machine learning, and deve
 
 <div align="center">
 
-### LeetCode
+<table>
+<tr>
+<th width="50%">LeetCode</th>
+<th width="50%">Codeforces</th>
+</tr>
+<tr>
+<td align="center" valign="middle">
 
 <a href="https://leetcode.com/u/sarfrazcodes/">
-
-<img src="assets/leetcode.svg" width="100%" alt="LeetCode Statistics"/>
-
+<img src="https://leetcard.jacoblin.cool/sarfrazcodes?theme=dark&font=Baloo_2&width=500&height=220&cache=60" width="100%" height="220" alt="Live LeetCode Statistics"/>
 </a>
 
-<br/>
-
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-157-00ff88?style=for-the-badge&labelColor=0d1117)
-![Contest Rating](https://img.shields.io/badge/Contest_Rating-1490-00ff88?style=for-the-badge&labelColor=0d1117)
-![Contests Attended](https://img.shields.io/badge/Contests_Attended-1-00ff88?style=for-the-badge&labelColor=0d1117)
-
-<br/>
-
-**Problem Breakdown**
-
-![Easy](https://img.shields.io/badge/Easy-117-00ff88?style=for-the-badge&labelColor=0d1117)
-![Medium](https://img.shields.io/badge/Medium-36-orange?style=for-the-badge&labelColor=0d1117)
-![Hard](https://img.shields.io/badge/Hard-4-red?style=for-the-badge&labelColor=0d1117)
-
-<br/><br/>
-
-### Codeforces
+</td>
+<td align="center" valign="middle">
 
 <a href="https://codeforces.com/profile/sarfrazcodes">
-
-<img src="https://codeforces-stats-vlx.vercel.app/api/card?username=sarfrazcodes&theme=dark" width="100%" alt="Codeforces Statistics"/>
-
+<img src="https://codeforces-stats-vlx.vercel.app/api/card?username=sarfrazcodes&theme=dark" width="100%" height="220" alt="Live Codeforces Statistics"/>
 </a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**Track my progress:**
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-00ff88?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117)](https://leetcode.com/u/sarfrazcodes/)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-00ff88?style=for-the-badge&logo=codeforces&logoColor=black&labelColor=0d1117)](https://codeforces.com/profile/sarfrazcodes)
 
 </div>
 
