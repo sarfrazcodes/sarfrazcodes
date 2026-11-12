@@ -96,16 +96,14 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarfrazcodes&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="100%" />
 
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten!
-
 <div align="center">
+  <h2>🐍 My Contribution Journey</h2>
 
-![Snake animation](https://raw.githubusercontent.com/sarfrazcodes/sarfrazcodes/output/github-contribution-grid-snake-dark.svg)
-
+  <img
+    src="https://raw.githubusercontent.com/sarfrazcodes/sarfrazcodes/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub contribution snake animation"
+  />
 </div>
 
 ---
