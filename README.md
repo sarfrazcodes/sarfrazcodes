@@ -148,18 +148,6 @@ Building intelligent applications, experimenting with machine learning, and deve
 ![Followers](https://img.shields.io/github/followers/sarfrazcodes?style=for-the-badge&color=00ff88&labelColor=0d1117)
 ![Stars](https://img.shields.io/github/stars/sarfrazcodes?style=for-the-badge&color=00ff88&labelColor=0d1117)
 
-</div>
-
----
-
-## GitHub Overview
-
-<div align="center">
-
-![Repositories](https://img.shields.io/badge/Repositories-27-00ff88?style=for-the-badge&labelColor=0d1117)
-![Followers](https://img.shields.io/github/followers/sarfrazcodes?style=for-the-badge&color=00ff88&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/sarfrazcodes?style=for-the-badge&color=00ff88&labelColor=0d1117)
-
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarfrazcodes&theme=dark&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=FFFFFF&dates=8B949E&hide_border=true" width="90%" alt="GitHub Contribution and Streak Statistics"/>
