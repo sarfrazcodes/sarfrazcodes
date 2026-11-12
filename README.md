@@ -1,16 +1,22 @@
  <div align="center">
 
-<img src="assets/profile-pixel-reveal.gif" width="230" alt="Sarfraz Pixel Art Avatar"/>
+<img src="assets/sarfraz_pixel_reveal.gif" width="260" alt="Sarfraz - Pixel Art Developer Avatar"/>
 
-# SARFRAZ CODES
+# <span style="color:#00ff88">SARFRAZ CODES</span>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=550&lines=AI%2FML+Developer;Full+Stack+Developer;Competitive+Programmer;Building+EVA+AI+OS"/>
 
 **Computer Science Student | AI/ML | Full-Stack Development**
 
-[![GitHub](https://img.shields.io/badge/GitHub-00ff88?style=flat-square&logo=github&logoColor=black)](https://github.com/sarfrazcodes)
-[![LeetCode](https://img.shields.io/badge/LeetCode-00ff88?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/sarfrazcodes/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-00ff88?style=flat-square&logo=codeforces&logoColor=black)](https://codeforces.com/profile/sarfrazcodes)
+<a href="https://github.com/sarfrazcodes">
+<img src="https://img.shields.io/badge/GitHub-00FF88?style=flat-square&logo=github&logoColor=black"/>
+</a>
+<a href="https://leetcode.com/u/sarfrazcodes/">
+<img src="https://img.shields.io/badge/LeetCode-00FF88?style=flat-square&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://codeforces.com/profile/sarfrazcodes">
+<img src="https://img.shields.io/badge/Codeforces-00FF88?style=flat-square&logo=codeforces&logoColor=black"/>
+</a>
 
 </div>
 
@@ -18,12 +24,12 @@
 
 ## About Me
 
--  B.Tech Computer Science student.
--  Interested in AI, Machine Learning, NLP and LLMs.
--  Building full-stack applications and intelligent systems.
--  Practicing DSA and competitive programming.
--  Developing **EVA AI OS**, a voice-controlled desktop assistant.
--  Interested in AI/ML, Backend and SDE opportunities.
+- 🎓 B.Tech Computer Science student.
+- 🤖 Interested in AI, Machine Learning, NLP and LLMs.
+- 💻 Building full-stack applications and intelligent systems.
+- 🧠 Practicing DSA and competitive programming.
+- 🚀 Developing **EVA AI OS**, a voice-controlled desktop assistant.
+- 🎯 Interested in AI/ML, Backend and Software Engineering.
 
 ---
 
@@ -37,7 +43,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff88)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=00ff88)
 
-**AI / ML**
+**AI / Machine Learning**
 
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=00ff88)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=00ff88)
@@ -45,7 +51,7 @@
 ![NLTK](https://img.shields.io/badge/NLTK-0d1117?style=flat-square&logo=python&logoColor=00ff88)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logo=python&logoColor=00ff88)
 
-**Development**
+**Development & Database**
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00ff88)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=00ff88)
@@ -60,7 +66,7 @@
 ## Featured Projects
 
 | Project | Description |
-|---|---|
+|:---|:---|
 | [EVA AI OS](https://github.com/sarfrazcodes/evaAiOs) | Voice-controlled desktop assistant with AI and OS automation. |
 | [KrishiSetu](https://github.com/sarfrazcodes/krishisetu_final) | AI-powered agricultural market intelligence platform. |
 | [UMS ChatBot](https://github.com/sarfrazcodes/umsChatBot) | University chatbot using NLP, NLTK and RapidFuzz. |
@@ -73,12 +79,24 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center">
+
 <a href="https://leetcode.com/u/sarfrazcodes/">
-<img src="https://leetcard.jacoblin.cool/sarfrazcodes?theme=dark&font=Baloo&ext=contest" width="48%" alt="LeetCode Statistics"/>
+<img src="https://leetcard.jacoblin.cool/sarfrazcodes?theme=dark&font=Baloo&border=0&radius=12&width=500&height=200" width="100%" alt="LeetCode Stats"/>
 </a>
+
+</td>
+<td width="50%" align="center">
+
 <a href="https://codeforces.com/profile/sarfrazcodes">
-<img src="https://codeforces-stats-vlx.vercel.app/api/card?username=sarfrazcodes&theme=dark" width="48%" alt="Codeforces Statistics"/>
+<img src="https://codeforces-stats-vlx.vercel.app/api/card?username=sarfrazcodes&theme=dark" width="100%" alt="Codeforces Stats"/>
 </a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -109,10 +127,27 @@
 
 ---
 
+## Connect With Me
+
 <div align="center">
+
+<a href="https://github.com/sarfrazcodes">
+<img src="https://img.shields.io/badge/GitHub-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+<a href="https://www.youtube.com/@sarfrazcodes">
+<img src="https://img.shields.io/badge/YouTube-00FF88?style=for-the-badge&logo=youtube&logoColor=black"/>
+</a>
+<a href="https://sarfrazcodes.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+<a href="https://www.linkedin.com/in/sarfrazcodes/">
+<img src="https://img.shields.io/badge/LinkedIn-00FF88?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<br/><br/>
 
 **Building today what I wish existed yesterday.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=80&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=100&section=footer"/>
 
 </div>
