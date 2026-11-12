@@ -91,37 +91,30 @@ Building intelligent applications, experimenting with machine learning, and deve
 
 ---
 
+
 ## Competitive Programming
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
 <a href="https://leetcode.com/u/sarfrazcodes/">
-<img src="https://leetcard.jacoblin.cool/sarfrazcodes?theme=dark&font=Baloo&width=400&height=190&border=0&radius=12" width="100%" alt="LeetCode Statistics"/>
+<img
+  src="https://leetcode-stats-card.vercel.app/api?username=sarfrazcodes"
+  width="500"
+  alt="LeetCode Solved Statistics and Contest Rating"
+/>
 </a>
 
-</td>
-<td width="50%" align="center" valign="middle">
+<br/><br/>
 
 <a href="https://codeforces.com/profile/sarfrazcodes">
-<img src="https://codeforces-stats-vlx.vercel.app/api/card?username=sarfrazcodes&theme=dark" width="100%" alt="Codeforces Statistics"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-### LeetCode Contest Rating
-
-<a href="https://leetcode.com/u/sarfrazcodes/">
-<img src="https://leetcard.jacoblin.cool/sarfrazcodes?theme=dark&font=Baloo&ext=contest&width=450&height=190&border=0&radius=12" width="75%" alt="LeetCode Contest Rating"/>
+<img
+  src="https://codeforces-stats-vlx.vercel.app/api/card?username=sarfrazcodes&theme=dark"
+  width="500"
+  alt="Codeforces Statistics"
+/>
 </a>
 
 </div>
-
 ---
 
 ## GitHub Overview
