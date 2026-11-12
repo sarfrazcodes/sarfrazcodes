@@ -92,29 +92,31 @@ Building intelligent applications, experimenting with machine learning, and deve
 ---
 
 
+
 ## Competitive Programming
 
 <div align="center">
 
 <a href="https://leetcode.com/u/sarfrazcodes/">
-<img
-  src="https://leetcode-stats-card.vercel.app/api?username=sarfrazcodes"
-  width="500"
-  alt="LeetCode Solved Statistics and Contest Rating"
-/>
+  <img
+    src="assets/leetcode.svg"
+    width="100%"
+    alt="LeetCode Complete Statistics and Contest Rating"
+  />
 </a>
 
 <br/><br/>
 
 <a href="https://codeforces.com/profile/sarfrazcodes">
-<img
-  src="https://codeforces-stats-vlx.vercel.app/api/card?username=sarfrazcodes&theme=dark"
-  width="500"
-  alt="Codeforces Statistics"
-/>
+  <img
+    src="https://codeforces-stats-vlx.vercel.app/api/card?username=sarfrazcodes&theme=dark"
+    width="100%"
+    alt="Codeforces Statistics"
+  />
 </a>
 
 </div>
+
 ---
 
 ## GitHub Overview
