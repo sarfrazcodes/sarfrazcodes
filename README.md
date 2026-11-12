@@ -122,9 +122,19 @@ Building intelligent applications, experimenting with machine learning, and deve
 
 **Track my progress:**
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-00ff88?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117)](https://leetcode.com/u/sarfrazcodes/)
+<div align="center">
+  <a href="https://leetcode.com/u/sarfrazcodes/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-00ff88?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/sarfrazcodes">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-00ff88?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" />
+  </a>
+</div>
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-00ff88?style=for-the-badge&logo=codeforces&logoColor=black&labelColor=0d1117)](https://codeforces.com/profile/sarfrazcodes)
+</div>
+
+---
 
 </div>
 
