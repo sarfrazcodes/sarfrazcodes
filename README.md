@@ -110,8 +110,7 @@ Building intelligent applications, experimenting with machine learning, and deve
 <a href="https://codeforces.com/profile/sarfrazcodes">
   <img
     src="https://codeforces-stats-vlx.vercel.app/api/card?username=sarfrazcodes&theme=dark"
-    height="60%"
-    width="100%"
+    width="500"
     alt="Codeforces Statistics"
   />
 </a>
