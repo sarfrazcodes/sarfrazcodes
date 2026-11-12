@@ -20,16 +20,16 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science undergraduate passionate about AI and software development.
-- 🤖 Exploring Machine Learning, NLP, LLMs and intelligent agents.
-- 💻 Building full-stack applications and AI-powered solutions.
-- 🧠 Practicing Data Structures and Algorithms.
-- 🚀 Currently developing **EVA AI OS**, a voice-controlled desktop assistant.
-- 🎯 Interested in AI/ML, Backend Engineering and Software Development internships.
+- Computer Science undergraduate passionate about AI and software development.
+- Exploring Machine Learning, NLP, LLMs and intelligent agents.
+- Building full-stack applications and AI-powered solutions.
+- Practicing Data Structures and Algorithms.
+- Currently developing **EVA AI OS**, a voice-controlled desktop assistant.
+- Interested in AI/ML, Backend Engineering and Software Development internships.
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff88)
@@ -64,7 +64,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Technologies |
 |---|---|---|
@@ -76,7 +76,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
